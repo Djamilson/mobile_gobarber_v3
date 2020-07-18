@@ -11,7 +11,7 @@ const url = 'www.ofertadodia.palmas.br/gostack';
 } */
 
 export default {
-  LOCALHOST: '192.168.10.106',
+  LOCALHOST: '192.168.0.125',
   PORT: 3333,
   WEBHOST: url,
 };
